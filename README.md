@@ -24,7 +24,7 @@
 
 ## 📸 Final Result
 
-![Job Hub Preview](./assets/jobhub-preview.png)
+![Job Hub Preview](./assets/jobhub.jpg)
 
 ---
 
